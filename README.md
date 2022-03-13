@@ -32,6 +32,8 @@ You can provide feedback or raise any issues through my email
 
 ## Github Pages link
 You can view the live application by following this link https://eveline32.github.io/delani-studio/?
+##Known Bug
+* The repo deployed is not the one on the github - to see the page clone the repo and atom or code on the index.html file.
 
 ## License
 #### *MIT License*
