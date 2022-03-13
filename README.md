@@ -31,7 +31,7 @@ You can provide feedback or raise any issues through my email
 * eveline.mghendi@student.moringaschool.com
 
 ## Github Pages link
-You can view the live application by following this link https://eveline32.github.io/week2-ip/?
+You can view the live application by following this link https://eveline32.github.io/delani-studio/?
 
 ## License
 #### *MIT License*
